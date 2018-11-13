@@ -1,1 +1,1 @@
-# JobScheduler-ForegroundService
+# Job Scheduler and Foreground Service supported with Oreo
